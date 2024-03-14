@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Screen-Scape/static/css/main.325ddbae.css",
-    "main.js": "/Screen-Scape/static/js/main.91b21e41.js",
-    "static/media/slick.svg": "/Screen-Scape/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/Screen-Scape/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/Screen-Scape/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/Screen-Scape/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/Screen-Scape/index.html",
-    "main.325ddbae.css.map": "/Screen-Scape/static/css/main.325ddbae.css.map",
-    "main.91b21e41.js.map": "/Screen-Scape/static/js/main.91b21e41.js.map"
+    "main.css": "/Entertain-Me/static/css/main.b7ba0f06.css",
+    "main.js": "/Entertain-Me/static/js/main.91b21e41.js",
+    "static/media/slick.svg": "/Entertain-Me/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Entertain-Me/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Entertain-Me/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Entertain-Me/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Entertain-Me/index.html",
+    "main.b7ba0f06.css.map": "/Entertain-Me/static/css/main.b7ba0f06.css.map",
+    "main.91b21e41.js.map": "/Entertain-Me/static/js/main.91b21e41.js.map"
   },
   "entrypoints": [
-    "static/css/main.325ddbae.css",
+    "static/css/main.b7ba0f06.css",
     "static/js/main.91b21e41.js"
   ]
 }
