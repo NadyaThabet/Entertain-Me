@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  min-height: 100vh !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.footer {
+  background: rgba(255, 255, 255, 0.13);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(11.2px);
+  -webkit-backdrop-filter: blur(11.2px);
+}
+
+.copy {
+  font-family: var(--comfortaa-font);
+  font-size: 14px;
+  padding: auto;
+}
+
+.name-span {
+  font-family: var(--nerko-font);
+  font-size: 25px;
+  color: var(--navHover-color);
+}
+
+.heart {
+  color: red;
+}
+
+.heart::before {
+  content: "❤";
+  display: inline-block;
+  animation: heartbeat 1s infinite;
+}
+
+@keyframes heartbeat {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

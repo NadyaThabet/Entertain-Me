@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+}
+
+.nav-bg {
+  background: rgba(255, 255, 255, 0.13);
+  box-shadow: 0 0 10px rgb(0 0 0 / 0.7);
+  backdrop-filter: blur(1.4px);
+  margin-inline: auto;
+  margin-top: -30px;
+}
+
+/* .target:focus,
+.target:hover {
+  color: rgba(236, 76, 17, 0.887) !important;
+} */
+
+.active {
+  color: rgba(236, 76, 17, 0.887) !important;
+}

@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.15) !important;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgb(0 0 0 / 0.7);
+  backdrop-filter: blur(1.4px);
+  margin-inline: auto;
+}
